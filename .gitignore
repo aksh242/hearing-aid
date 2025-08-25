@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+.dist/
+dist/
+build/
+.vercel/
+.turbo/
+
+# Env
+.env
+.env.*
+.env.local
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+.eslintcache
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage
+coverage/
+
+# Misc
+*.local
